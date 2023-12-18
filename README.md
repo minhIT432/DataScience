@@ -2,7 +2,7 @@
 
 ## Clone the repo
 ```
-git clone https://github.com/mchien15/datascience.git
+git clone https://github.com/minhIT432/DataScience.git
 ```
 then navigate to repo's folder
 
